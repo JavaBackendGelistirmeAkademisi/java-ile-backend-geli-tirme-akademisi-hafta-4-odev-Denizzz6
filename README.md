@@ -28,3 +28,10 @@ Bir e-ticaret sistemi oluşturun. Bu sistemde ürün yönetimi, müşteri işlem
 - Sistemin hatasız çalışması ve exception handling yapısının doğru kurgulanmış olması.
 - Dosya işlemlerinin doğru bir şekilde uygulanması ve verilerin dosyalardan okunup yazılabilmesi.
 - Kodun okunabilirliği ve yapılan işlemlerin net bir şekilde anlaşılması.
+
+
+Sınıflar
+Product: Burada ürünlerin özellikleri ve product ve updateinfolar ile main classı üzerinden bu özellikler çağrılabilir.
+Customer: Burada müşteri bilgileri ve customerInfo ile main üzerinden bu bilgiler aktarılır.
+OutOfStockException: Bu class stock bittiği zaman hata fırlatır.
+Main:Burada product customer ve OutofStock classlarıyla bir e ticaret uygulaması yapılmıştır. 
