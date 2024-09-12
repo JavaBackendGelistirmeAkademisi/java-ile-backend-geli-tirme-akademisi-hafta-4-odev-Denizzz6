@@ -1,0 +1,12 @@
+ürün adıatkı
+Ürün fiyatı:27.0
+Ürün stoğu:10
+ürün adıdeniz
+Ürün fiyatı:54.0
+Ürün stoğu:20
+ürün adı: hdhdh
+Ürün fiyatı: 12345.0
+Ürün stoğu: 54
+ürün adı: ddfddf
+Ürün fiyatı: 545.0
+Ürün stoğu: 545

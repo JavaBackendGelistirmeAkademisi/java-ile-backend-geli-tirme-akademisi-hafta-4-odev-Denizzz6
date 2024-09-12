@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yJC9k_V9)
 ## Hafta 4 Ödev: E-Ticaret Sipariş ve Envanter Yönetimi
 
 Bir e-ticaret platformunda sipariş ve envanter yönetimi yaparken Java I/O işlemleri ile dosya okuma ve yazma süreçlerini kullanarak hata yönetimi ve exception handling konularını pekiştirmeniz beklenmektedir.
@@ -27,3 +28,10 @@ Bir e-ticaret sistemi oluşturun. Bu sistemde ürün yönetimi, müşteri işlem
 - Sistemin hatasız çalışması ve exception handling yapısının doğru kurgulanmış olması.
 - Dosya işlemlerinin doğru bir şekilde uygulanması ve verilerin dosyalardan okunup yazılabilmesi.
 - Kodun okunabilirliği ve yapılan işlemlerin net bir şekilde anlaşılması.
+
+
+Sınıflar
+Product: Burada ürünlerin özellikleri ve product ve updateinfolar ile main classı üzerinden bu özellikler çağrılabilir.
+Customer: Burada müşteri bilgileri ve customerInfo ile main üzerinden bu bilgiler aktarılır.
+OutOfStockException: Bu class stock bittiği zaman hata fırlatır.
+Main:Burada product customer ve OutofStock classlarıyla bir e ticaret uygulaması yapılmıştır. 
